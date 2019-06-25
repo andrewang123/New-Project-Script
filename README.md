@@ -4,7 +4,6 @@
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 The purpose of this project is to be able to automate the process of create a project on GitHub syncing it locally. You can run the command anywhere on the terminal and it will create the project in a hardcoded location.
