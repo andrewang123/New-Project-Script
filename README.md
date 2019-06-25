@@ -23,6 +23,7 @@ sudo -H pip install pygithub
 export GIT_USERNAME=“username”
 export GIT_PASSWORD=“password”
 export PATH=$PATH:/Users/[macUsername]/bin
+alias create=create.sh
 ```
 3. Ensure you have python 3.6, python 3.7 is does not support pytorch as of the date the script was written.
 
